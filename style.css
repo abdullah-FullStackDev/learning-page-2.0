@@ -7,12 +7,26 @@ body{
 }
 nav{
 width: 100%;
-display: flex;
+display: inline-block;
+height: 50px;
 }
-.tl{
-    text-align: end;
+.br{
+    height: 50px;
+    background: url(//ga-dash.s3.amazonaws.com/production/assets/logo-0901a3c….png) no-repeat;
+    background-size: 20px;
+    color: #fff;
+    display: inline-block;
+    margin: 7px 0 0 10px;
+    font-size: 24px;
+    background-position: 4px 3px;
+    padding: 0 30px;
 }
-.tf{
-    display: flex;
-    text-align: left;
+.login{
+margin-right: 8px;
+margin-top: 10px;
+float: right;
+font-size: 18px;
+color: #888;
+font-family: "pf-din", Impact, sans-serif;
+text-transform: uppercase;
 }
