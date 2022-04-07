@@ -13,5 +13,6 @@ display: flex;
     text-align: end;
 }
 .tf{
+    display: flex;
     text-align: left;
 }
