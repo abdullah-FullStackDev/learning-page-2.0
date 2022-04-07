@@ -7,5 +7,11 @@ body{
 }
 nav{
 width: 100%;
-display: inline;
+display: flex;
+}
+.tl{
+    text-align: end;
+}
+.tf{
+    text-align: left;
 }
