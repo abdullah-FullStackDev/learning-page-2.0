@@ -27,7 +27,6 @@ body{
     margin-bottom: 20px;
     text-align: center;
     font-weight: bolder;
-    margin-bottom: 20px;
 }
 .fz{
     font-size: 20px;
@@ -43,4 +42,12 @@ body{
     text-align: center;
     font-weight: bolder;
     margin-bottom: 20px;
+}
+.container-5{
+    background-color: #ddd;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bolder;
 }
