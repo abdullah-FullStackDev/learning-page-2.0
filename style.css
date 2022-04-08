@@ -46,11 +46,11 @@ body{
 .container-5{
     background-color: #ddd;
     border: 1px solid #ddd;
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 20px;
     font-weight: bolder;
     width: 100%;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: auto;
 }
 .im{
@@ -71,4 +71,15 @@ button{
     max-width: 1100px;
     margin: auto;
     margin-top: 20px;
+}
+footer{
+    background-color: #000;
+    color: white;
+    text-align: center;
+    width: 100%;
+    max-width: 1100px;
+    margin: auto;
+    margin-top: 20px;
+    height: 70px;
+    padding-top: 23px;
 }
