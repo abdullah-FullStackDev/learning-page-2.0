@@ -20,9 +20,13 @@ body{
 .container-3{
     background-color: rgb(189, 181, 181);
     border: 1px solid rgb(189, 181, 181);
-    height: 100px;
+    height: 220px;
     padding-top: 5px;
     margin-bottom: 20px;
     text-align: center;
     font-weight: bolder;
+    margin-bottom: 20px;
+}
+.fz{
+    font-size: 20px;
 }
