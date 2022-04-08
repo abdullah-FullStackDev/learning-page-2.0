@@ -16,7 +16,7 @@ body{
     position: relative;
     background-image:url(https://image.ibb.co/kYJK8x/showcase.jpg) ;
     color: white;
-    height: 70vh;
+    min-height: 70vh;
     padding: 20px;
 }
 .container-3{
