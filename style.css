@@ -16,4 +16,6 @@ body{
 }
 .container-2{
     background-image:url(https://image.ibb.co/kYJK8x/showcase.jpg) ;
+    color: white;
+    height: 70vh;
 }
