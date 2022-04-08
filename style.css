@@ -49,8 +49,15 @@ body{
     padding: 20px;
     margin-bottom: 20px;
     font-weight: bolder;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
 }
 .im{
     max-width: 500px;
     width: 100%;
+}
+button{
+    background-color: #000;
+    color: white;
 }
